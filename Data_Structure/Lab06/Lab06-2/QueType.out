@@ -1,0 +1,18 @@
+test
+Queue is empty.
+5 is enqueued.
+7 is enqueued.
+6 is enqueued.
+9 is enqueued.
+5 is dequeued. 
+7 is dequeued. 
+6 is dequeued. 
+9 is dequeued. 
+2 is enqueued.
+3 is enqueued.
+3 is enqueued.
+4 is enqueued.
+2 is dequeued. 
+8 is dequeued. 
+8 is dequeued. 
+4 is dequeued. 

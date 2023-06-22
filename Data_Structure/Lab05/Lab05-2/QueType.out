@@ -1,0 +1,14 @@
+test
+Queue is empty.
+5 is enqueued.
+4 is enqueued.
+2 is enqueued.
+3 is enqueued.
+1 is enqueued.
+8 is enqueued.
+-842150451 is MinDequeued. 
+1 is MinDequeued. 
+2 is MinDequeued. 
+3 is MinDequeued. 
+4 is MinDequeued. 
+5 is MinDequeued. 

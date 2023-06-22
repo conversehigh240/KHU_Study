@@ -1,0 +1,17 @@
+test1
+Stack is empty.
+Top element is 9
+Top element is 6
+Top element is 7
+Top element is 5
+Top element is 4
+Top element is 3
+Top element is 3
+Top element is 2
+Top element is 3
+Stack is empty.
+Stack is not empty.
+Stack is empty.
+Stack is not full.
+Stack is not full.
+EmtpyStack exception thrown.

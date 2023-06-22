@@ -1,0 +1,15 @@
+test
+Queue is empty.
+7 is enqueued.
+4 is enqueued.
+5 is enqueued.
+6 is enqueued.
+10 is enqueued.
+Queue is not full.
+Length is 5
+Result is 1
+7 is dequeued. 
+8 is dequeued. 
+5 is dequeued. 
+6 is dequeued. 
+10 is dequeued. 
